@@ -1,0 +1,6 @@
+hub myHub
+shortLabel My Custom Data
+longLabel Custom data for analysis
+genomesFile genomes.txt
+email your-email@example.com
+
