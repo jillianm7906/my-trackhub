@@ -1,6 +1,6 @@
-track myCustomTrack
-bigDataUrl http://yourserver.com/path/to/test.bigBed
-shortLabel Custom Track
-longLabel Custom data in BED format
-visibility dense
-color 0,0,255
+track myBigBed
+bigDataUrl https://github.com/jillianm7906/trackhubfolder/raw/main/myBigBed.bb
+shortLabel My Custom Track
+longLabel My Custom BigBed Track
+type bigBed
+visibility full
